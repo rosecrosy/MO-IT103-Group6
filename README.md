@@ -61,6 +61,7 @@ Employee Name
 Birthday
 Position
 Supervisor
+
 3. Payroll Processing
 
 Payroll staff can generate payroll reports for:
@@ -120,7 +121,8 @@ Scrollable payroll output
 Styled buttons and layouts
 Dialog messages and validations
 Exit buttons and navigation screens
-Technologies Used
+
+Technologies Used:
 Java
 Java Swing
 CSV File Handling
